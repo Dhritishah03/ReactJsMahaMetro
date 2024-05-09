@@ -1,0 +1,935 @@
+.root {
+  position: relative;
+  width: 1440px;
+  height: 1024px;
+  flex-direction: column;
+  align-items: flex-start;
+  border-radius: 12px;
+  background-color: #f7f6f9;
+  overflow: hidden;
+  box-shadow: 0px 10px 70px 0px #6425fe0a;
+}
+.rectangle982 {
+  position: absolute;
+  left: 315px;
+  top: 0;
+  width: 1126px;
+  height: 96px;
+  background-color: #fff;
+}
+.frame1264 {
+  position: absolute;
+  left: 348px;
+  top: 24px;
+  width: 1061px;
+  height: min-content;
+  align-items: center;
+  gap: 416px;
+}
+.puneJunctionPNQ {
+  color: #2c2c2c;
+  font-size: 20px;
+  font-weight: 500;
+  font-family: Be Vietnam, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: 197px;
+  height: min-content;
+  flex-direction: column;
+}
+.frame1263 {
+  width: min-content;
+  height: min-content;
+  align-items: center;
+  gap: 32px;
+}
+.group1222 {
+  position: relative;
+  width: 344px;
+  height: 40px;
+}
+.rectangle704 {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  width: 344px;
+  height: 40px;
+  border-radius: 8px;
+  background-color: #f7f6f9;
+}
+.searchForPlatformTrainsOrMore {
+  color: #a49f9f;
+  font-size: 14px;
+  font-family: Be Vietnam, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 13.3721%;
+  right: 19.7674%;
+  top: 20%;
+  bottom: 30%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.searchNormal {
+  position: absolute;
+  left: 3.7791%;
+  right: 91.5698%;
+  top: 30%;
+  bottom: 30%;
+  width: 16px;
+  height: 16px;
+  overflow: visible;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}
+.ellipse40 {
+  width: 48px;
+  height: 48px;
+  overflow: visible;
+}
+.icon2 {
+  width: 100%;
+  height: 100%;
+}
+.frame1276 {
+  position: absolute;
+  left: 41px;
+  top: 33px;
+  width: 100px;
+  height: 24px;
+  flex-direction: column;
+}
+.line35 {
+  position: relative;
+  left: 369px;
+  top: 1181.75px;
+  width: 1028px;
+  max-width: 100%;
+  height: 1.2836px;
+  max-height: 100%;
+}
+.line35::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  transform-origin: 0 0;
+  transform: rotate(0.0019deg);
+  width: 1028px;
+  height: 0;
+  outline: solid 0.625px #e8e9ff;
+}
+.line37 {
+  position: relative;
+  left: 367px;
+  top: 1251.75px;
+  width: 1028px;
+  max-width: 100%;
+  height: 1.2836px;
+  max-height: 100%;
+}
+.line37::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  transform-origin: 0 0;
+  transform: rotate(0.0019deg);
+  width: 1028px;
+  height: 0;
+  outline: solid 0.625px #e8e9ff;
+}
+.frame654 {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 315px;
+  height: 1024px;
+  flex-direction: column;
+  align-items: flex-start;
+  background-color: #fff;
+  overflow: hidden;
+}
+.frame1271 {
+  position: absolute;
+  left: 20px;
+  top: 124px;
+  width: min-content;
+  height: min-content;
+  flex-direction: column;
+}
+.frame1266 {
+  width: min-content;
+  height: min-content;
+  align-self: flex-start;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 24px;
+}
+.userPanel {
+  color: #7e7d82;
+  font-size: 14px;
+  font-weight: 500;
+  font-family: Be Vietnam, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.frame1272 {
+  width: 275px;
+  height: min-content;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 16px 165px 16px 20px;
+  border-radius: 8px;
+  background-color: #efe9ff;
+}
+.frame1267 {
+  width: min-content;
+  height: min-content;
+  align-items: center;
+  gap: 10px;
+}
+.materialSymbolsDashboardOutlin {
+  width: 24px;
+  height: 24px;
+}
+.icon3 {
+  width: 100%;
+  height: 100%;
+}
+.liveFeed {
+  color: #6425fe;
+  font-size: 16px;
+  font-weight: 500;
+  font-family: Be Vietnam, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.frame1268 {
+  width: min-content;
+  height: min-content;
+  align-items: center;
+  gap: 10px;
+  padding: 10px 165px 10px 20px;
+  border-radius: 8px;
+}
+.bytesizePortfolio {
+  width: 24px;
+  height: 24px;
+}
+.icon4 {
+  width: 100%;
+  height: 100%;
+}
+.crowdAI {
+  color: #84828a;
+  font-size: 16px;
+  font-weight: 500;
+  font-family: Be Vietnam, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.frame50 {
+  width: 275px;
+  height: min-content;
+  align-items: center;
+  gap: 10px;
+  padding: 10px 165px 10px 20px;
+  border-radius: 8px;
+}
+.iconParkOutlineStockMarket {
+  width: 24px;
+  height: 24px;
+}
+.icon5 {
+  width: 100%;
+  height: 100%;
+}
+.stationAnalysis {
+  color: #84828a;
+  font-size: 16px;
+  font-weight: 500;
+  font-family: Be Vietnam, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.frame51 {
+  width: 230px;
+  height: min-content;
+  align-items: center;
+  gap: 10px;
+  padding: 10px 165px 10px 20px;
+  border-radius: 8px;
+}
+.materialSymbolsWalletSharp {
+  width: 24px;
+  height: 24px;
+}
+.icon6 {
+  width: 100%;
+  height: 100%;
+}
+.recordings {
+  color: #84828a;
+  font-size: 16px;
+  font-weight: 500;
+  font-family: Be Vietnam, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.frame52 {
+  width: 242px;
+  height: min-content;
+  align-items: center;
+  gap: 10px;
+  padding: 10px 165px 10px 20px;
+  border-radius: 8px;
+}
+.mdiBankTransfer {
+  width: 24px;
+  height: 24px;
+}
+.icon7 {
+  width: 100%;
+  height: 100%;
+}
+.crimeDetection {
+  color: #84828a;
+  font-size: 16px;
+  font-weight: 500;
+  font-family: Be Vietnam, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.frame1224 {
+  width: 265px;
+  height: min-content;
+  align-items: center;
+  gap: 10px;
+  padding: 10px 165px 10px 20px;
+  border-radius: 8px;
+}
+.grommetIconsTransaction {
+  width: 24px;
+  height: 24px;
+}
+.icon8 {
+  width: 100%;
+  height: 100%;
+}
+.reportingTransaction {
+  color: #84828a;
+  font-size: 16px;
+  font-weight: 500;
+  font-family: Be Vietnam, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.frame1225 {
+  width: 275px;
+  height: min-content;
+  align-items: center;
+  gap: 10px;
+  padding: 10px 165px 10px 20px;
+  border-radius: 8px;
+}
+.carbonMachineLearningModel {
+  width: 24px;
+  height: 24px;
+}
+.icon9 {
+  width: 100%;
+  height: 100%;
+}
+.alertsNotifications {
+  color: #84828a;
+  font-size: 16px;
+  font-weight: 500;
+  font-family: Be Vietnam, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.frame1273 {
+  position: absolute;
+  left: 40px;
+  top: 935px;
+  width: 275px;
+  height: min-content;
+  align-items: center;
+  gap: 10px;
+  padding: 10px 165px 10px 10px;
+  border-radius: 8px;
+}
+.frame1274 {
+  width: 24px;
+  height: 24px;
+}
+.icon10 {
+  width: 100%;
+  height: 100%;
+}
+.logout {
+  color: #84828a;
+  font-size: 16px;
+  font-weight: 500;
+  font-family: Be Vietnam, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.ellipse437 {
+  position: absolute;
+  left: 139px;
+  top: 735px;
+  width: 38px;
+  height: 38px;
+  overflow: visible;
+  filter: blur(8.5px);
+}
+.icon11 {
+  width: 100%;
+  height: 100%;
+}
+.kavach {
+  color: #2c2c2c;
+  font-size: 36px;
+  line-height: 24px;
+  font-weight: 500;
+  font-family: Be Vietnam, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 141px;
+  top: 49px;
+  width: 131px;
+  height: 28px;
+  flex-direction: column;
+}
+.asset2331 {
+  position: absolute;
+  left: 43px;
+  top: 27px;
+  width: 75px;
+  height: 78px;
+  background-image:/* webpackIgnore: true */ url('/assets/asset2331.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.kHsuHRuG3Qq4x3cUnsplash1 {
+  position: absolute;
+  left: 359px;
+  top: 142px;
+  width: 1036px;
+  height: 567px;
+  border-radius: 8px;
+  background-image:/* webpackIgnore: true */ url('/assets/kHsuHRuG3Qq4x3cUnsplash1.jpeg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.cAM6 {
+  color: #fff;
+  font-size: 24px;
+  font-weight: 500;
+  font-family: Be Vietnam, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 1295px;
+  top: 161px;
+  width: 72px;
+  height: min-content;
+  flex-direction: column;
+}
+._13345 {
+  color: #000;
+  font-size: 24px;
+  font-weight: 500;
+  font-family: Be Vietnam, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 1292px;
+  top: 729px;
+  width: 102px;
+  height: min-content;
+  flex-direction: column;
+}
+.commonWaitingArea {
+  color: #6425fe;
+  font-size: 24px;
+  font-weight: 500;
+  font-family: Be Vietnam, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 359px;
+  top: 729px;
+  width: 260px;
+  height: min-content;
+  flex-direction: column;
+}
+.frame1277 {
+  position: absolute;
+  left: 872px;
+  top: 776px;
+  width: 523px;
+  height: 228px;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 20px;
+  padding: 20px 12px;
+  border-radius: 8px;
+  background-color: #fff;
+}
+.frame1248 {
+  position: absolute;
+  left: 21px;
+  top: 22px;
+  width: min-content;
+  height: min-content;
+  flex-direction: column;
+}
+.quickActions {
+  color: #2c2c2c;
+  font-size: 14px;
+  font-weight: 500;
+  font-family: Be Vietnam, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.frame12482 {
+  position: absolute;
+  left: 42px;
+  top: 61px;
+  width: 209.6749px;
+  height: 61px;
+  flex-direction: column;
+  align-items: center;
+  padding: 16px 135px 16px 20px;
+  border-radius: 8px;
+  background-color: #007aff;
+}
+.callPolice100 {
+  color: #fff;
+  font-size: 16px;
+  font-weight: 500;
+  font-family: Be Vietnam, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 48px;
+  top: 19px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.frame12483 {
+  position: absolute;
+  left: 271.3251px;
+  top: 142px;
+  width: 209.6749px;
+  height: 61px;
+  flex-direction: column;
+  padding: 16px 135px 16px 20px;
+  border-radius: 8px;
+  background-color: #1c1c1e;
+}
+.sendSecurity {
+  color: #fff;
+  font-size: 16px;
+  font-weight: 500;
+  font-family: Be Vietnam, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 323px;
+  top: 159px;
+  width: 106px;
+  height: min-content;
+  flex-direction: column;
+}
+.frame12484 {
+  position: absolute;
+  left: 42px;
+  top: 141px;
+  width: 209.6749px;
+  height: 61px;
+  flex-direction: column;
+  align-items: center;
+  padding: 16px 135px 16px 20px;
+  border-radius: 8px;
+  background-color: #ff3b30;
+}
+.callAmbulance102 {
+  color: #fff;
+  font-size: 16px;
+  font-weight: 500;
+  font-family: Be Vietnam, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 27px;
+  top: 18px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.frame12485 {
+  position: absolute;
+  left: 271.3251px;
+  top: 61px;
+  width: 209.6749px;
+  height: 61px;
+  flex-direction: column;
+  align-items: center;
+  padding: 16px 135px 16px 20px;
+  border-radius: 8px;
+  background-color: #ff9500;
+}
+.callFireDept101 {
+  color: #fff;
+  font-size: 16px;
+  font-weight: 500;
+  font-family: Be Vietnam, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 37.6749px;
+  top: 19px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.frame1278 {
+  position: absolute;
+  left: 357px;
+  top: 776px;
+  width: 500px;
+  height: 228px;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 20px;
+  padding: 20px 12px;
+  border-radius: 8px;
+  background-color: #fff;
+}
+.frame12486 {
+  position: absolute;
+  left: 18px;
+  top: 20px;
+  width: min-content;
+  height: min-content;
+  flex-direction: column;
+}
+.crowdAnalysis {
+  color: #2c2c2c;
+  font-size: 14px;
+  font-weight: 500;
+  font-family: Be Vietnam, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.frame1237 {
+  position: absolute;
+  left: 98px;
+  top: 198.977px;
+  width: 255px;
+  height: 14px;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: center;
+  gap: 78px;
+}
+._10Am {
+  color: #838383;
+  font-size: 12px;
+  font-weight: 500;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 5px;
+  top: 0;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+._11Am {
+  color: #838383;
+  font-size: 12px;
+  font-weight: 500;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 107px;
+  top: 0.023px;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+._12Pm {
+  color: #838383;
+  font-size: 12px;
+  font-weight: 500;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 206px;
+  top: -0.977px;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.frame1260 {
+  position: absolute;
+  left: 360px;
+  top: 52px;
+  width: min-content;
+  height: min-content;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  gap: 6px;
+  padding: 12px;
+  border-radius: 8px;
+  background-color: #6425fe;
+}
+.jan3011216AM {
+  color: #dcd2d2;
+  font-size: 10px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+._35788 {
+  color: #fff;
+  font-size: 14px;
+  font-weight: 500;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.ellipse435 {
+  position: absolute;
+  left: 337px;
+  top: 76px;
+  width: 12px;
+  height: 12px;
+  overflow: visible;
+}
+.icon12 {
+  width: 100%;
+  height: 100%;
+}
+.rectangle21 {
+  position: absolute;
+  left: 877px;
+  top: 375px;
+  width: 39px;
+  height: 101px;
+  border-radius: 10px;
+  background-color: #ffffffb8;
+}
+.rectangle22 {
+  position: absolute;
+  left: 827px;
+  top: 375px;
+  width: 39px;
+  height: 101px;
+  border-radius: 10px;
+  background-color: #ffffffb8;
+}
+.rectangle23 {
+  position: absolute;
+  left: 369px;
+  top: 691px;
+  width: 960px;
+  height: 9px;
+  border-radius: 4px;
+  background-color: #eef6fcb8;
+}
+.live {
+  opacity: 0.72;
+  color: #ff3b30;
+  font-size: 15px;
+  font-weight: 600;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 1355px;
+  top: 685px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.ellipse1 {
+  position: absolute;
+  left: 1339px;
+  top: 688px;
+  width: 12px;
+  height: 12px;
+  overflow: visible;
+}
+.icon13 {
+  width: 100%;
+  height: 100%;
+}
+.frame1235 {
+  position: absolute;
+  left: 400px;
+  bottom: 60.023px;
+  width: 41.0918px;
+  height: min-content;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 23px;
+}
+._11700 {
+  color: #838383;
+  font-size: 12px;
+  font-weight: 500;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+._11650 {
+  color: #838383;
+  font-size: 12px;
+  font-weight: 500;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+._11600 {
+  color: #838383;
+  font-size: 12px;
+  font-weight: 500;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+._11550 {
+  color: #838383;
+  font-size: 12px;
+  font-weight: 500;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.rectangle974 {
+  position: absolute;
+  left: 456px;
+  bottom: 55.4754px;
+  width: 247px;
+  height: 132.5246px;
+  outline: dashed 1px #6f6af8;
+  outline-offset: -1px;
+}
+.rectangle976 {
+  position: absolute;
+  left: 621.9684px;
+  bottom: 55.4754px;
+  width: 81.0316px;
+  height: 132.5246px;
+  outline: dashed 1px #6f6af8;
+  outline-offset: -1px;
+}
+.rectangle977 {
+  position: absolute;
+  left: 456px;
+  bottom: 55.4754px;
+  width: 81.0316px;
+  height: 132.5246px;
+  outline: dashed 1px #6f6af8;
+  outline-offset: -1px;
+}
+.rectangle975 {
+  position: absolute;
+  left: 456px;
+  bottom: 97.5957px;
+  width: 247px;
+  height: 48.2841px;
+  outline: dashed 1px #6f6af8;
+  outline-offset: -1px;
+}
+.group1212 {
+  position: absolute;
+  left: 456px;
+  top: 850.0807px;
+  width: 245.9622px;
+  height: 118.4438px;
+  overflow: visible;
+}
+.icon14 {
+  width: 100%;
+  height: 100%;
+}
